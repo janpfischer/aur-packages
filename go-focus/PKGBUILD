@@ -1,7 +1,7 @@
 # Maintainer: Jamie Magee <jamie dot magee at gmail dot com>
 _name=focus
 pkgname=go-$_name-bin
-pkgver=1.0.0 # renovate: datasource=github-tags depName=ayoisaiah/focus
+pkgver=20230222083644 # renovate: datasource=github-tags depName=ayoisaiah/focus
 pkgrel=1
 pkgdesc="Focus is a cross-platform productitivy timer for the command line written in Go."
 arch=('x86_64')
