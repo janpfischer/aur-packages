@@ -3,7 +3,7 @@
 This repository contains a collection of packages which are kept up to date with [Renovate Bot][1].
 Once an upstream release got's an update an automatic Push Request is generated and once this is accepted a pipeline is triggered to create the makepkg file and publish the package to the [AUR][2].
 
-This repository is based on the very helpful blog post by [Jamie Magee][3] about exactly this approach and his [template][4].
+This repository is based on the very helpful blog post by [Jamie Magee][4] about exactly this approach and his [template][3].
 
 ## How it works
 
