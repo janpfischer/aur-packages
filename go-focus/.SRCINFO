@@ -1,5 +1,5 @@
 pkgbase = go-focus-bin 
-	pkgdesc = "Focus is a cross-platform productitivy timer for the command line written in Go."
+	pkgdesc = "Focus is a cross-platform productivity timer for the command line written in Go."
 	pkgver = 1.0.0
 	pkgrel = 1
 	url = https://github.com/ayoisaiah/focus
