@@ -12,6 +12,12 @@ This repository is based on the very helpful blog post by [Jamie Magee][4] about
 1. A GitHub Action (which is triggered on the creation of a PR) will update the checksums of the packages and changes the values in the `.SRCINFO` file.
 1. Once the PR is accepted a GitHub Action will publish the package to the [(AUR)](2).
 
+## Packages in this Repository
+
+### focus-timer-bin
+
+`focus-timer-bin` is a package with the pre-built executable based on the given release of an application called [focus][6]. `focus` is an CLI application which is written in Go and provides a feature rich [Pomodoro][7] timer.
+
 ## License
 
 All code in this repository is licensed under [the MIT license][6].
@@ -22,3 +28,5 @@ See the `license` property in each `PKGBUILD` for the license under which each p
 [3]: https://github.com/jamieMagee/aur-packages
 [4]: https://jamiemagee.co.uk/blog/maintaining-aur-packages-with-renovate
 [5]: https://opensource.org/license/mit/
+[6]: https://github.com/ayoisaiah/focus
+[7]: https://en.wikipedia.org/wiki/Pomodoro_Technique
